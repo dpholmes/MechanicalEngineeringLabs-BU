@@ -9,7 +9,7 @@ Contents:
 2. "For Students_ Recording Labs with Zoom Cloud Recording.docx"
 3. "Lab0_JupyterIntro.ipynb"
 
-#########
+##############
 
 "Lab0_JupyterIntro.ipynb" is a Google Colab and ME305-focused intro to Jupyter notebooks (and Python):
 - Markdown (HTML/LATeX) vs. code cells

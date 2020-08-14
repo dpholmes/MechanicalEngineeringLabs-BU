@@ -1,0 +1,24 @@
+README_LAB3
+By: Lucia Stein-Montalvo (lsmontal@bu.edu)
+August 2020
+
+##############
+
+Contents:
+1. "Lab3_MoreBending.ipynb"
+2. "Lab3_MoreBending_withLSMdata.ipynb"
+3. "Shear Lab Photos LSM" (folder)
+
+##############
+
+"Lab3_MoreBending.ipynb" is meant to help visualize transverse shear strain *** without *** telling students this at the outset. 
+Most of the math is done for them and the experiments are simple, so emphasis should be on (1) quality experiments/photos/measurements and (2) the prelab and discussion questions -- conceptual understanding.
+- Prelab questions (before completing experiments) re: Euler-Bernoulli's (in)ability to capture shear strain, the effect of allowing vs. preventing shear on beam deflection, distributed load, second moment of area (for a sheet vs. a book...)
+- Simple experiments: compare a book acting as a cantilever with it's free end bound vs. unbound.
+- Visualize stiffening effect of resisting shear strain.
+- Measure and calculate the (approximate?) shear strain in each case.
+- Discuss results.
+
+"Lab3_MoreBending_withLSMdata.ipynb" has my photos and measurements for reference.
+
+"Shear Lab Photos LSM" contains photos used in the lab (in case imgbb hosting expires).

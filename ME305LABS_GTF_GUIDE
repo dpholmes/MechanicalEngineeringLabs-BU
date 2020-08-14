@@ -120,31 +120,35 @@ Instruct students to:
 TIPS & TROUBLESHOOTING
 ##################
 
-Materials 
+Export csv early.
 
-Collaboration with Zoom and Colab
+Materials: 
+- paperback book/magazine/other floppy book/stack of papers that you can staple or otherwise bind on one edge.
+- something to clamp it with (i.e. a stack of other, heavier books)
+
+Collaboration with Zoom and Colab, Shared Drive
 
 Assigning groups
 
+Deliverables
+
 Images with Colab
-
-Reference objects 
-
-Format of files (instructions only for example)
-
-Prelab for Labs 2 & 3: can work alone or together?
-
-Shared Drive organization
 
 Image Processing with mpld3
 
-Deliverables
+Reference objects 
+
+Format of instructions files
+
+"Dosing" of instructions
+
+Prelab for Labs 2 & 3: can work alone or together?
 
 Grading
 
 Feedback
 
-Note on Lab vs. Syllabus Schedule
+Lab vs. Syllabus Schedule
 
 Solutions
 
@@ -158,8 +162,10 @@ LSM EDITS:
 - Add example images to host website and folder (account, so not lost)
 - description in each folder of what each ipynb has, including a full version. Objectives and content summary.
 - split up Lab 0, move zoom screenshots.
+
 - Add prelab 2 
 - Lab 2: don't say M=w'' is most useful. Leave room for piece-wise solution.
 - Lab 2: No dataframe manipulations. Make it variables like the previous section. Make a line from min:max P not -- because it depends on the order data points were taken.
-- disclaimer on lab 3 of E circular argument?
+
+- 
 - you could just upload the whole lab and tell them to only do part of it?
