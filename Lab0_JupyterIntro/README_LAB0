@@ -1,0 +1,21 @@
+README_LAB0
+By: Lucia Stein-Montalvo (lsmontal@bu.edu)
+August 2020
+
+##############
+
+Contents:
+1. "For Students_ Instructions for Zoom Set-Up.docx"
+2. "For Students_ Recording Labs with Zoom Cloud Recording.docx"
+3. "Lab0_JupyterIntro.ipynb"
+
+#########
+
+"Lab0_JupyterIntro.ipynb" is a Google Colab and ME305-focused intro to Jupyter notebooks (and Python):
+- Markdown (HTML/LATeX) vs. code cells
+- Importing libraries
+- Basic math
+- Print statements
+- Lists -> Dictionaries -> DataFrames (Pandas)
+- Plotting (matplotlib)
+- Uploading photos by mounting Google Drive
