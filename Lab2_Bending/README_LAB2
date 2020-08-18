@@ -1,0 +1,32 @@
+README_LAB2
+By: Lucia Stein-Montalvo (lsmontal@bu.edu)
+August 2020
+
+##############
+
+Contents:
+1. "Lab2_Bending.ipynb"
+2. "Lab2_Bending_OldV_withLSMdata.ipynb"
+3. "Bending Lab Photos LSM" (folder)
+4. "Lab2_PrelabSols.pdf"
+
+##############
+
+"Lab2_Bending.ipynb" is meant to explore Euler-Bernoulli beam theory with experiments on a cantilever beam under 2 types of loading: (1) End loading with different weights (2) Fixed weight, loading at various locations. 
+- Prelab asks students to solve the beam equation for deflection w(x) and end deflection w(x=L) under 2 loading conditions.
+- Experiments: take ~10 photos of a cantilever under different loading conditions.
+- Measure end deflection in each photo (store in dataframe, optional csv export)
+- Plot end deflection results vs. theory
+- Overlay theoretical deflection curve on one of the experimental images
+- Discuss results.
+
+"Lab2_Bending_OldV_withLSMdata.ipynb" has my photos and measurements for reference -- note that this is an old version of the lab, but prompts for plots/measurements are all the same.
+
+"Bending Lab Photos LSM" contains photos used in the lab (in case imgbb hosting expires).
+
+"Lab2_PrelabSols.pdf" contains solutions (by hand) to the beam equation under these loading conditions (i.e. the theoretical equations needed for the lab)
+
+***** NOTES: ***** 
+- Lab 2 corresponds to the Elastic Curve. In the past at BU, this section has been taught late in the course (and not with the other bending sections...) Hopefully this has been re-arranged, but be aware in case you assign this lab before the students have learned the material.
+- I made several changes to this lab after the students completed it, so I recommend a test-run before assigning.
+- Solutions to prelab appear later in the notebook.
