@@ -3,20 +3,26 @@ By: Lucia Stein-Montalvo (lsmontal@bu.edu)
 August 2020
 
 ##################
-SCHEDULE
+SUGGESTED SCHEDULE
 ##################
+
+There are 4 total labs (includes "Lab" 0), which for Summer 2020 we split to weekly "bite-sized" tasks. It seemed to work well compared to the traditional 3 big lab assignments. If you do the same, you can split the labs (i.e. split the notebooks, or just tell students to stop at Section X) as follows:
+
 Week 1: Lab 0 Part 1 -- Zoom intro
 Week 2: Lab 0 Part 2 -- Jupyter & Colab Intro
 Week 3: Lab 1 Part 1 -- Young's Modulus Prelab: Spring Image Processing
 Week 4: Lab 1 Part 2 -- Young's Modulus Rubber Band Experiments
 Week 5: Lab 1 Part 3 -- Young's Modulus Image Processing, Analysis, Discussion
-Week 6: Lab 2 Part 1 -- Cantilever Bending Prelab
+Week 6: Lab 2 Part 1 -- Cantilever Bending Prelab (*)
 Week 7: Lab 2 Part 2 -- Cantilever Bending Experiments
 Week 8: Lab 2 Part 3 -- Cantilever Bending Image Processing, Analysis, Discussion
 Week 9: Lab 3 Part 1 -- More Bending (Shear) Prelab
 Week 10: Lab 3 Part 2 -- More Bending (Shear) Experiments
 Week 11: Lab 3 Part 3 -- More Bending (Shear) Image Processing, Analysis, Discussion 
 Combine Parts if needed.
+
+(*) Lab 2 corresponds to the Elastic Curve. In the past at BU, this section has been taught late in the course (and not with the other bending sections...) Hopefully this has been re-arranged, but be aware in case you assign this lab before the students have learned the material.
+
 
 
 
@@ -148,7 +154,6 @@ Grading
 
 Feedback
 
-Lab vs. Syllabus Schedule
 
 Solutions
 
@@ -157,15 +162,16 @@ Example images
 ##################
 
 LSM EDITS:
+
 - check mpld3 in all.
 - Remove collaboration instructions
 - Add example images to host website and folder (account, so not lost)
-- description in each folder of what each ipynb has, including a full version. Objectives and content summary.
-- split up Lab 0, move zoom screenshots.
+- README for master folder
+
+- Lab 1 cosmetics 
 
 - Add prelab 2 
 - Lab 2: don't say M=w'' is most useful. Leave room for piece-wise solution.
 - Lab 2: No dataframe manipulations. Make it variables like the previous section. Make a line from min:max P not -- because it depends on the order data points were taken.
 
-- 
-- you could just upload the whole lab and tell them to only do part of it?
+- delete split versions?
