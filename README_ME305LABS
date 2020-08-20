@@ -20,7 +20,8 @@ TIPS & TROUBLESHOOTING
 ##################
 
 Structure & Deliverables:
-There are 4 total labs (includes "Lab" 0, which is just an intro to the lab structure). For Summer 2020m we split these labs to weekly "bite-sized" tasks. It seemed to work well compared to the traditional 3 big lab assignments. Each lab is contained in a Jupyter notebook with, generally, an introduction, prelab, experiment instructions, then prompts for image processing and plotting, and discussion questions. 
+There are 4 total labs (includes "Lab" 0, which is just an intro to the lab structure). For Summer 2020m we split these labs to weekly "bite-sized" tasks. It seemed to work well compared to the traditional 3 big lab assignments. Suggested schedule & assigning instructions are below.
+Each lab is contained in a Jupyter notebook with, generally, an introduction, prelab, experiment instructions, then prompts for image processing and plotting, and discussion questions. 
 Each lab group delivered their completed notebook, but no additional written lab report, and a link to a Zoom recording of their work (for a participation grade).
 
 Assigning groups & collaboration instructions:
@@ -42,27 +43,6 @@ The biggest complaint from students was about Colab's lag when working simultane
 
 Images with Colab:
 Colab (and/or mpld3?) is happiest with ~350KB images, and throws a Runtime Error or just a blank screen for much larger images. Cropping to the region of interest is an option (the reference object included, or separately measured). 
-
-
-
-- Add example images to host website and folder (account, so not lost)
-- delete split versions?
-
-- send survey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -88,7 +68,6 @@ Combine Parts if needed.
 
 (*) The solutions to the prelab are later in the lab.
 (**) Lab 2 corresponds to the Elastic Curve. In the past at BU, this section has been taught late in the course (and not with the other bending sections...) Hopefully this has been re-arranged, but be aware in case you assign this lab before the students have learned the material.
-
 
 
 
