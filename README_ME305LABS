@@ -5,13 +5,12 @@ August 2020
 ##############
 
 Contents:
-1. "ME305LABS_GTFGUIDE"
-2. 
+1. "Lab0_JupyterIntro" (folder)
+2. "Lab1_YoungsModulus" (folder)
+3. "Lab2_Bending" (folder)
+3. "Lab3_MoreBending" (folder)
 
-(folders)
-
-Each folder contains readme, Jupyter, etc.
-
+Each folder contains a main Jupyter notebook and a README file, with a description of the lab and other more specific notes.
 
 
 
@@ -20,39 +19,36 @@ Each folder contains readme, Jupyter, etc.
 TIPS & TROUBLESHOOTING
 ##################
 
+Structure & Deliverables:
+There are 4 total labs (includes "Lab" 0, which is just an intro to the lab structure). For Summer 2020m we split these labs to weekly "bite-sized" tasks. It seemed to work well compared to the traditional 3 big lab assignments. Each lab is contained in a Jupyter notebook with, generally, an introduction, prelab, experiment instructions, then prompts for image processing and plotting, and discussion questions. 
+Each lab group delivered their completed notebook, but no additional written lab report, and a link to a Zoom recording of their work (for a participation grade).
 
-Assigning groups: 
+Assigning groups & collaboration instructions:
+For Summer 2020, we sent a survey at the beginning of the semester, then split students into groups based on their responses regarding access to materials (below) and timezones. In my opinion, groups of 3 or so would probably work best -- if a student doesn't participate, partners won't be alone, but there aren't too many students that it's hard to schedule and participate actively. 
+Assuming not every student has access to all of the materials, you can require that only one student does each experiment while their group members actively participate by giving directions/advice on Zoom. The TA should clearly explain how students should collaborate at the beginning of the semester.
 
 Materials: 
-- paperback book/magazine/other floppy book/stack of papers that you can staple or otherwise bind on one edge.
-- ruler, skewer, or similarly shaped object
-- something to clamp these things with (i.e. a stack of other, heavier books)
-- assortment (at least 5) of batteries, or other similar weights
-- rubber bands
-- thumb tack/nail/binder clips/pins (some mechanism to hang a rubber band vertically, and hang weights from that)
+- assortment (at least 5) of batteries, or other similar weights (Lab 1, 2)
+- rubber bands (Lab 1)
+- thumb tack/nail/binder clips/pins (some mechanism to hang a rubber band vertically, and hang weights from that) (Lab 1)
+- ruler, skewer, or similarly shaped object (Lab 2)
+- paperback book/magazine/other floppy book/stack of papers that you can staple or otherwise bind on one edge. (Lab 3)
+- something to clamp these things with (i.e. a stack of other, heavier books) (Lab 2, 3)
 
-Collaboration with Zoom and Colab, Shared Drive:
+Collaboration with Zoom and Colab, Shared Google Drive:
+Zoom recording instructions are given in Lab 0. Students are instructed to work together, on Zoom, each time they meet. The TA can then scan videos for participation grades, and/or join meetings as requested for help (if the timing works).
+It worked well to use a Shared Gooogle Drive for each group. The TA can add new assignments to this folder, and students can save images, csvs, copies of notebooks, etc. there. 
+The biggest complaint from students was about Colab's lag when working simultaneously on a notebook. It does not update as quickly as, e.g., Google Docs. The TA should set this expectation at the beginning of the semester and suggest workarounds, e.g. one student works in nb while screen sharing and others verbally contribute or use screen control on Zoom, students can make a copy of nb, etc.  
 
-Structure & Deliverables:
-no report
-There are 4 total labs (includes "Lab" 0), which for Summer 2020 we split to weekly "bite-sized" tasks. It seemed to work well compared to the traditional 3 big lab assignments.
-
-
-
-
-Images with Colab
-Images need to be either very close-up or have high resolution so that precise measurements are possible. Cropping to the region of interest is an option (the reference object included, or separately measured), and may be preferable since Colab (and/or mpld3?) is happiest with ~350KB images, and doesn't accept much larger...
+Images with Colab:
+Colab (and/or mpld3?) is happiest with ~350KB images, and throws a Runtime Error or just a blank screen for much larger images. Cropping to the region of interest is an option (the reference object included, or separately measured). 
 
 
-##################
 
-LSM EDITS:
-
-- Export csv early in lab 1 -- copy from lab 2.
 - Add example images to host website and folder (account, so not lost)
 - delete split versions?
 
-
+- send survey
 
 
 
