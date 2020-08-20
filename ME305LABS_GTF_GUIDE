@@ -128,13 +128,18 @@ Instruct students to:
 TIPS & TROUBLESHOOTING
 ##################
 
-Export csv early.
-
 Materials: 
 - paperback book/magazine/other floppy book/stack of papers that you can staple or otherwise bind on one edge.
 - ruler, skewer, or similarly shaped object
 - something to clamp these things with (i.e. a stack of other, heavier books)
 - assortment (at least 5) of batteries, or other similar weights
+- rubber bands
+- thumb tack/nail/binder clips/pins (some mechanism to hang a rubber band vertically, and hang weights from that)
+
+
+
+
+Export csv early.
 
 Collaboration with Zoom and Colab, Shared Drive
 
@@ -143,6 +148,7 @@ Assigning groups
 Deliverables
 
 Images with Colab
+Images need to be either very close-up or have high resolution so that precise measurements are possible. Cropping to the region of interest is an option (the reference object included, or separately measured), and may be preferable since Colab (and/or mpld3?) is happiest with ~350KB images, and doesn't accept much larger...
 
 Image Processing with mpld3
 

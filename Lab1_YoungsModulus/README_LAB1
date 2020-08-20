@@ -1,0 +1,22 @@
+README_LAB1
+By: Lucia Stein-Montalvo (lsmontal@bu.edu) & Douglas P. Holmes
+August 2020
+
+##############
+
+Contents:
+1. "Lab1_YoungsModulus.ipynb"
+
+##############
+
+"Lab1_YoungsModulus.ipynb" is meant to introduce students to image proessing and Hooke's law. The task is to create a very simple "DIC" to measure strain, Young's Modulus E, and Poisson's ratio, and calculate the Shear Modulus G. Virtually no coding is required -- the students are prompted for all input. The biggest challenge is experimental: the TA should emphasize the importance of quality (and well-aligned) setup & images.
+
+- Prelab introduces image processing for measuring strain. Measure extension in an image of a spring from Wikipedia, and use Hooke's Law to find k.
+- Experiments: take ~7-9 photos of a rubber band oaded with different weights.
+- Measure geometric properties, and distance between two (marked) points in each image
+- Force is converted to stress; displacement to strain. Plot generated, linear fit gives slope as Young's modulus E.
+- Discuss results.
+
+***** NOTES: ***** 
+- Images need to be either very close-up or have high resolution so that precise measurements are possible. Cropping to the region of interest is an option (the reference object included, or separately measured), and may be preferable since Colab (and/or mpld3?) is happiest with ~350KB images, and doesn't accept much larger...
+- I made some changes to this lab after the students completed it, so I recommend a test-run before assigning.
